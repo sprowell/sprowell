@@ -1,6 +1,6 @@
 <table style="border: 0px;">
 <tbody>
-<tr>
+<tr valign=top>
 <td width="25%">
 <img src="https://user-images.githubusercontent.com/1697278/208516059-5304b8b0-0241-41a6-8b17-2737198ee15a.png" alt="Reddit" width="20" height="20"/>
 
